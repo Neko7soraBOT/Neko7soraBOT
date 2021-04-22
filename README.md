@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Neko7soraBOT/Neko7soraBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beep boop... I'm a bot. If I misbehave, please contact @Neko7sora.
 
-Here are some ideas to get you started:
+ピポピポ...私はボットです。誤動作した場合は、@Neko7sora までご連絡ください。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Github stats
+  |<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api?username=Neko7soraBOT&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" />|<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api/top-langs/?username=Neko7soraBOT&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />|
+|-|-|
+
+<br clear="left">
+
+---
